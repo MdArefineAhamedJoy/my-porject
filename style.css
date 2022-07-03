@@ -1,0 +1,36 @@
+ul{
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+  
+  
+   
+}
+li{
+  display:inline-block;
+  padding :30 40 ;
+  margin-right: 20px;
+}
+
+ a{
+   text-decoration:none;
+   background-color: burlywood;
+   color:tomato;
+   padding:10px 40px;
+   display: block;
+   border-radius:10px;
+   transition: 1s;
+}
+a:hover{
+      background-color:#BA55D3;
+      
+}
+#chang{
+   width: 68%;
+  
+}
+p{
+  text-align: justify;
+  margin-left:5px ;
+  margin-right:45px;
+}
